@@ -1,0 +1,7 @@
+{
+  "name": "TakeIT",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
